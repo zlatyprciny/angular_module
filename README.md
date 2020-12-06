@@ -1,2 +1,2 @@
-# angular_routing
-Learning of angular routing
+# angular_module
+Learning of angular module
